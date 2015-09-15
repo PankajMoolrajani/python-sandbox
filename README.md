@@ -29,5 +29,5 @@ Instructions to run turing complete sandbox:
         python sandbox.py -f exploit-program.py
     
     2.4) run exploit program in sandbox with interactive mode
-        python -i sandbox.py -f exploit-program.py 
+        python -i sandbox.py -f exploit-program.py
         
